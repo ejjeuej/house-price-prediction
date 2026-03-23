@@ -24,7 +24,7 @@ Final model uses **Stacking Ensemble** combining multiple base models.
 - Kaggle Ranking: Top 0.12
 
 ## 📂 Files
-- `house-saleprice.ipynb`: Full pipeline
+- `house-price-prediction-project.ipynb`: Full pipeline
 
 ## 🚀 Highlights
 - Built full ML pipeline from scratch
